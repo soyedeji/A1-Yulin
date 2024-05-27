@@ -1,0 +1,29 @@
+body{
+    font-family:alegreya,serif;
+    font-size:20px;
+    margin:20px auto;
+    width:1230px;
+}
+
+.photogallery{
+    width: 1230px;
+    margin: 0 auto;
+}
+
+.photolist{
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.photolist .photo{
+    width: 35%;
+}
+.photolist img{
+    width: 100%;
+}
+
+.photolocal img{
+    width: 1230px;
+}
