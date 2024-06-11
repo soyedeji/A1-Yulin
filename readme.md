@@ -21,7 +21,7 @@ This assignment involves creating a simple Gallery with PHP.
 Clone the repository:
 
 ```sh
-git git@github.com:soyedeji/A1-Yulin.git
+git clone git@github.com:soyedeji/A1-Yulin.git
 ```
 
 
